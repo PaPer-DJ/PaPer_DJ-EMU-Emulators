@@ -18,3 +18,13 @@ PaPer_DJ-EMULADORES de Consolas y Sistemas RETRO para PC
 * PS3 | PlayStation 3
   - https://rpcs3.net
 
+
+* PSP | PlayStation Portable
+ - https://www.ppsspp.org/downloads.html
+ 
+
+* VITA | PSP Vita
+  - https://vita3k.org/
+  
+
+* 
