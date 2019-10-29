@@ -33,4 +33,8 @@ PaPer_DJ-EMULADORES de Consolas y Sistemas RETRO para PC
     * https://www.wondershare.com/emulator/wii-emulators.html
 
 * WiiU | Nintendo Wiiu
-  - 
+  - https://cemu.info/
+    * https://www.3djuegos.com/index.php?zona=top100&id_plat=35
+    * https://www.gamesradar.com/best-wii-u-games/
+    
+* 
