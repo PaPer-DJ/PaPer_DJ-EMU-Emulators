@@ -21,6 +21,8 @@ PaPer_DJ-EMULADORES de Consolas y Sistemas RETRO para PC
 
 * PSP | PlayStation Portable 
   - https://www.ppsspp.org/downloads.html
+  
+    * https://www.lifewire.com/top-system-emulators-for-psp-2792759
 
 
 * VITA | PSP Vita 
