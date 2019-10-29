@@ -47,9 +47,8 @@ PaPer_DJ-EMULADORES de Consolas y Sistemas RETRO para PC
   - https://sourceforge.net/projects/nestopia/
     
 * SNES | Nintendo Super Nintendo
-  - https://es.dolphin-emu.org/?cr=es
-    * https://www.wondershare.com/emulator/wii-emulators.html
-    
+  - http://www.snes9x.com/
+
 * N64 | Nintendo 64
   - https://www.pj64-emu.com/
   - https://mupen64plus.org/
