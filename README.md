@@ -55,10 +55,11 @@ PaPer_DJ-EMULADORES de Consolas y Sistemas RETRO para PC
     * https://github.com/mupen64plus/mupen64plus-core/releases
     
 * DREAMCAST | SEGA Dreamcast
+  - https://redream.io/download
   - https://reicast.com/downloads/
     * https://github.com/reicast/reicast-emulator/releases 
   - https://code.google.com/archive/p/nulldc/
     
-* Wii | Nintendo Wii and Game Cube
-  - https://es.dolphin-emu.org/?cr=es
-    * https://www.wondershare.com/emulator/wii-emulators.html
+* MEGADRIVE | SEGA GENESIS | MegaDrive
+  - https://www.carpeludum.com/kega-fusion/
+
