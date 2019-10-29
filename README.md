@@ -53,6 +53,7 @@ PaPer_DJ-EMULADORES de Consolas y Sistemas RETRO para PC
 * N64 | Nintendo 64
   - https://www.pj64-emu.com/
   - https://mupen64plus.org/
+    * https://github.com/mupen64plus/mupen64plus-core/releases
     
 * Wii | Nintendo Wii and Game Cube
   - https://es.dolphin-emu.org/?cr=es
