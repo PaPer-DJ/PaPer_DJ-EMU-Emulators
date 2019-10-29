@@ -3,7 +3,8 @@ PaPer_DJ-EMULADORES de Consolas y Sistemas RETRO para PC
 
 ------------------------------------------------------------
 
-     * https://www.emulator-zone.com/
+* Web Emulacion (Emulator Zone)
+        - https://www.emulator-zone.com/
 
 ------------------------------------------------------------
 
