@@ -54,9 +54,10 @@ PaPer_DJ-EMULADORES de Consolas y Sistemas RETRO para PC
   - https://mupen64plus.org/
     * https://github.com/mupen64plus/mupen64plus-core/releases
     
-* Wii | Nintendo Wii and Game Cube
-  - https://es.dolphin-emu.org/?cr=es
-    * https://www.wondershare.com/emulator/wii-emulators.html
+* DREAMCAST | SEGA Dreamcast
+  - https://reicast.com/downloads/
+    * https://github.com/reicast/reicast-emulator/releases 
+  - https://code.google.com/archive/p/nulldc/
     
 * Wii | Nintendo Wii and Game Cube
   - https://es.dolphin-emu.org/?cr=es
