@@ -21,7 +21,6 @@ PaPer_DJ-EMULADORES de Consolas y Sistemas RETRO para PC
 
 * PSP | PlayStation Portable 
   - https://www.ppsspp.org/downloads.html
-  
     * https://www.lifewire.com/top-system-emulators-for-psp-2792759
 
 
@@ -29,4 +28,9 @@ PaPer_DJ-EMULADORES de Consolas y Sistemas RETRO para PC
   - https://vita3k.org/
  
 
-* 
+* Wii | Nintendo Wii and Game Cube
+  - https://es.dolphin-emu.org/?cr=es
+    * https://www.wondershare.com/emulator/wii-emulators.html
+
+* WiiU | Nintendo Wiiu
+  - 
