@@ -43,8 +43,8 @@ PaPer_DJ-EMULADORES de Consolas y Sistemas RETRO para PC
     * https://www.gamesradar.com/best-wii-u-games/
     
 * NES | Nintendo NES
-  - https://es.dolphin-emu.org/?cr=es
-    * https://www.wondershare.com/emulator/wii-emulators.html
+  - https://www.mesen.ca/
+  - https://sourceforge.net/projects/nestopia/
     
 * SNES | Nintendo Super Nintendo
   - https://es.dolphin-emu.org/?cr=es
